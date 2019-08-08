@@ -1,24 +1,18 @@
-# README
+# Ruby on Rails Tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Ruby on Rails web app that greets the world.
 
-Things you may want to cover:
+From [*Ruby on Rails Tutorial*](https://www.railstutorial.org/)
+by [Michael Hartl](https://www.michaelhartl.com/).
 
-* Ruby version
+Ruby version: 5.2.3
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+__Gems__
+gem 'rails',        '5.2.3'
+gem 'puma',         '3.9.1'
+gem 'sass-rails',   '5.0.6'
+gem 'uglifier',     '3.2.0'
+gem 'coffee-rails', '4.2.2'
+gem 'jquery-rails', '4.3.1'
+gem 'turbolinks',   '5.0.1'
+gem 'jbuilder',     '2.7.0'
