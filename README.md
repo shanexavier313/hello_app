@@ -7,7 +7,7 @@ by [Michael Hartl](https://www.michaelhartl.com/).
 
 Ruby version: 5.2.3
 
-__Gems__
+##Gems
 
 gem 'rails',        '5.2.3'
 
