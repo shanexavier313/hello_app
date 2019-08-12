@@ -6,7 +6,7 @@ protect_from_forgery with: :exception
   end
 
   def spanish_hello
-    render html: "¡hola, mundo!m"
+    render html: "¡hola, mundo!"
   end
 
   def goodbye
